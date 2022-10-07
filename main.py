@@ -7,3 +7,5 @@ file.write(f'\nO valor {valor_cm} em centímetros corresponde a {valor_pol(valor
 file.seek(0,0)
 print(file.read())
 file.close()
+
+print('\nNova versão do código')
